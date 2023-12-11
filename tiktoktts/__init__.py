@@ -1,1 +1,1 @@
-from .tiktoktts import main
+import main
