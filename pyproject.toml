@@ -1,0 +1,10 @@
+[project]
+name = "tiktoktts"
+version = "1.0"
+authors = [
+    {name=oscie57},
+    {name=Aviatxrr},
+]
+description = "An API to programatically turn text into speech using TikTok voices"
+readme = "README.md"
+requires-python = ">=3.8"
